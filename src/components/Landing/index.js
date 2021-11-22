@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Landing = () => {
+function index() {
     return (
         <div>
-            
+            Landing Page
         </div>
     )
 }
 
-export default Landing
+export default index

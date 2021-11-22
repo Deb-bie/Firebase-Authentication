@@ -1,0 +1,40 @@
+
+nav{
+    display: flex;
+    justify-content: center;
+    /* background: #000; */
+}
+
+
+.containers{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+ul{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    
+}
+
+li{
+    height:80px;
+    padding: 1.7rem;
+}
+
+
+.Link{
+    text-decoration: none;
+    color: #000;
+    
+}
+
+
+
+
+
+
+
